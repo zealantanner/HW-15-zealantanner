@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CS1405_Lab</name>
+    </assembly>
+    <members>
+        <member name="T:Program">
+            <summary>
+             This is the program class and it does some stuff. YAY
+            </summary>
+        </member>
+        <member name="M:Program.Display(System.Object)">
+            <summary>
+             Displays text in the <mark>console</mark>
+            </summary>
+            <param name= "obj"> the text is here</param>
+        </member>
+        <member name="M:Program.DoSomeFunkyMathTo(System.Double,System.Double)">
+            <summary>
+             Does some <i>funky</i> math to <strong>a</strong>, <strong>b</strong>
+            </summary>
+            <returns>
+             your <i>funky</i> number
+            </returns>
+            <param name= "a"> This is "a", the first digit</param> 
+            <param name= "b"> This is "b", the second digit</param> 
+        </member>
+    </members>
+</doc>
